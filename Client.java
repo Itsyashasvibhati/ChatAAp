@@ -45,7 +45,7 @@ public class Client extends JFrame {
 
          createGUI();
          handleEvents();
-                 startReading();
+                 startReadin();
                 //  startWriting();
 
 
@@ -59,7 +59,7 @@ public class Client extends JFrame {
          messageInput.addKeyListener(new KeyListener() {
           
          @Override
-         public void keyTyped(KeyEvent e)  {
+         public void keyTyped(KeyEvent e) {
 
          }
 
