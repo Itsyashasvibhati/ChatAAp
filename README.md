@@ -115,9 +115,10 @@ java Client
 ## 👨‍💻 Author
 
 **Yashasvi Bhati**
+```
 🔗 GitHub: [https://github.com/Itsyashasvibhati](https://github.com/Itsyashasvibhati)
 🔗 LinkedIn: [https://www.linkedin.com/in/yashasvi-bhati-8444b82a1/]
-
+```
 ---
 
 ## ⭐ Support
